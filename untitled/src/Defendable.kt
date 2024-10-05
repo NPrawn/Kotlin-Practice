@@ -1,0 +1,3 @@
+interface Defendable {
+    fun defend()
+}
